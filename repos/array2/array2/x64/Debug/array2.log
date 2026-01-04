@@ -1,0 +1,22 @@
+﻿  array2.cpp
+C:\Users\venu\source\repos\array2\array2.cpp(10,41): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\venu\source\repos\array2\array2.cpp(10,51): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\venu\source\repos\array2\array2.cpp(10,56): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\venu\source\repos\array2\array2.cpp(10,61): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  array2.vcxproj -> C:\Users\venu\source\repos\array2\x64\Debug\array2.exe

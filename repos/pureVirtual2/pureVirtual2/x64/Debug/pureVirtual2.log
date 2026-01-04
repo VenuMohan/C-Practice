@@ -1,0 +1,5 @@
+﻿  pureVirtual2.cpp
+C:\Users\venu\source\repos\pureVirtual2\pureVirtual2.cpp(37,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\venu\source\repos\pureVirtual2\pureVirtual2.cpp(47,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\venu\source\repos\pureVirtual2\pureVirtual2.cpp(63,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pureVirtual2.vcxproj -> C:\Users\venu\source\repos\pureVirtual2\x64\Debug\pureVirtual2.exe

@@ -1,0 +1,3 @@
+﻿  func.cpp
+C:\Users\venu\source\repos\func\func.cpp(61,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  func.vcxproj -> C:\Users\venu\source\repos\func\x64\Debug\func.exe

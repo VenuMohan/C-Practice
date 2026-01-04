@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venu\\source\\repos\\array2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90DEA0EF-FAF6-496C-89A2-1D8C45A8BC94}|array2.vcxproj|C:\\Users\\venu\\source\\repos\\array2\\array2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90DEA0EF-FAF6-496C-89A2-1D8C45A8BC94}|array2.vcxproj|solutionrelative:array2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array2.cpp",
+              "DocumentMoniker": "C:\\Users\\venu\\source\\repos\\array2\\array2.cpp",
+              "RelativeDocumentMoniker": "array2.cpp",
+              "ToolTip": "C:\\Users\\venu\\source\\repos\\array2\\array2.cpp",
+              "RelativeToolTip": "array2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T04:51:45.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
