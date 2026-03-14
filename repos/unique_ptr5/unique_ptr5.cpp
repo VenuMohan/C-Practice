@@ -101,6 +101,7 @@ int main()
 
     Player player(50);
     Player player2(500);
+    Player player3(1000);
 
     // std::move converts ground weapon to an r val which can be moved 
     player.SetCurrentWeapon(std::move(groundWeapon));
@@ -114,7 +115,10 @@ int main()
     player.SwapWeapons(player2);
     player.PrintCurrentWeaponDamage();
 
-    
+    // player3 replaces player2
+    player3 = std::move(player2);
+    player3.PrintCurrentWeaponDamage();
+
 
 }
 
