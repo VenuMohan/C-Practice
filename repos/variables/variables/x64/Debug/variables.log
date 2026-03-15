@@ -1,4 +1,4 @@
 ﻿  variables.cpp
 C:\Users\venu\source\repos\variables\variables.cpp(12,13): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\venu\source\repos\variables\variables.cpp(17,12): warning C4305: 'initializing': truncation from 'int' to 'bool'
+C:\Users\venu\source\repos\variables\variables.cpp(18,12): warning C4305: 'initializing': truncation from 'int' to 'bool'
   variables.vcxproj -> C:\Users\venu\source\repos\variables\x64\Debug\variables.exe
