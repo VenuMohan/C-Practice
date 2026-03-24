@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 108,
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "unique_ptr6.cpp",
               "ToolTip": "C:\\Users\\venu\\source\\repos\\unique_ptr6\\unique_ptr6.cpp",
               "RelativeToolTip": "unique_ptr6.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-14T11:15:25.245Z",
               "EditorCaption": ""
