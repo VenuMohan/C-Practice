@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\venu\\source\\repos\\Templates1\\",
+  "WorkspaceRootPath": "D:\\C\u002B\u002B Practice\\C-Practice\\repos\\Templates1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{463E5C2F-9FE1-4668-8763-5570D2B74504}|Templates1\\Templates1.vcxproj|C:\\Users\\venu\\source\\repos\\Templates1\\Templates1\\Templates1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{463E5C2F-9FE1-4668-8763-5570D2B74504}|Templates1\\Templates1.vcxproj|D:\\C\u002B\u002B Practice\\C-Practice\\repos\\Templates1\\Templates1\\Templates1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{463E5C2F-9FE1-4668-8763-5570D2B74504}|Templates1\\Templates1.vcxproj|solutionrelative:Templates1\\Templates1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Templates1.cpp",
-              "DocumentMoniker": "C:\\Users\\venu\\source\\repos\\Templates1\\Templates1\\Templates1.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B Practice\\C-Practice\\repos\\Templates1\\Templates1\\Templates1.cpp",
               "RelativeDocumentMoniker": "Templates1\\Templates1.cpp",
-              "ToolTip": "C:\\Users\\venu\\source\\repos\\Templates1\\Templates1\\Templates1.cpp",
+              "ToolTip": "D:\\C\u002B\u002B Practice\\C-Practice\\repos\\Templates1\\Templates1\\Templates1.cpp",
               "RelativeToolTip": "Templates1\\Templates1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
