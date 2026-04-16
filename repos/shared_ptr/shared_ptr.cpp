@@ -54,7 +54,7 @@ int main()
 
     if (p)
     {
-        std::cout << "initial ptr is still active" << "\n";
+        std::cout << "initial ptr is still active " << "\n";
     }
 
     PrintPtrVal(q.get(), 20);
