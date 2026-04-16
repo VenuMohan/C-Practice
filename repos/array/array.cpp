@@ -41,5 +41,5 @@ int main()
     {
         std::cout << str << std::endl;
     }
-    std::cout << "size of array :  " << sizeof(employees) << std::endl;
+    std::cout << "size of array : " << sizeof(employees) << std::endl;
 }
