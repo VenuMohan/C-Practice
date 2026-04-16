@@ -35,7 +35,7 @@ public:
 
     void SetValues(T1&& _t1, T2&& _t2) 
     {
-        std::cout << "r value set" << std::endl;
+        std::cout << "r value set " << std::endl;
         t1 = _t1;
         t2 = _t2;
 
